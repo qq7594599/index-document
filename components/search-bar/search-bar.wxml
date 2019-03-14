@@ -1,0 +1,4 @@
+<!--components/search-bar.wxml-->
+<view class="bar-layout">
+  <input confirm-type="search"></input>
+</view>

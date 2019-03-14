@@ -1,0 +1,5 @@
+<view class="container">
+  <button class="login" loading="{{signing}}" disabled="{{signing}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo">
+    {{signing ? "We are signing you in" : "Click here to Login"}}
+  </button>
+</view>

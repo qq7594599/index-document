@@ -1,0 +1,10 @@
+.container {
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+button.login {
+  align-self: flex-end;
+  margin-bottom: 120rpx;
+}

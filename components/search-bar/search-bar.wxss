@@ -1,0 +1,27 @@
+/* components/search-bar.wxss */
+.bar-layout {
+  height: 110rpx;
+  width: 100%;
+
+  border-bottom: 0.5rpx solid #ccc;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  background-color: #fafafa;
+}
+
+.bar-layout input {
+  margin: 5rpx 15rpx;
+  border: 0.5rpx solid #ccc;
+  border-radius: 50rpx;
+
+  line-height: 70rpx;
+  height: 70rpx;
+
+  padding: 0 25rpx;
+  font-size: 24rpx;
+
+  background-color: #ffffff;
+}

@@ -1,12 +1,14 @@
 {
-  "pages":[
+  "pages": [
+    "pages/login/login",
     "pages/index/index",
     "pages/logs/logs"
+    
   ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2e71b3",
+    "navigationBarTitleText": "Index Documents",
+    "navigationBarTextStyle": "white"
   }
 }
