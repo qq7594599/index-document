@@ -2,7 +2,7 @@ const delayPromise = () => {
   return new Promise((resolve) => {
     setTimeout(function () {
       resolve(true);
-    }, 3000);
+    }, 300);
   })
 }
 

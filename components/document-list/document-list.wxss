@@ -1,0 +1,67 @@
+/* components/document-list/document-list.wxss */
+
+.list {
+  background: #fff;
+  width: 100%;
+}
+
+.list .list-item {
+  min-height: 80rpx;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+
+  padding: 15rpx;
+}
+
+.list .list-item image {
+  width: 120rpx;
+  height: 120rpx;
+}
+
+.list .list-item .info {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  margin-left: 25rpx;
+}
+
+.list .list-item .info .title {
+  font-size: 32rpx;
+}
+
+.list .list-item .info .summary {
+  font-size: 24rpx;
+}
+
+.list .list-item .info .author {
+  margin-top: 15rpx;
+  color: #666;
+  font-size: 24rpx;
+}
+
+.list .list-item .info .location {
+  color: #999;
+  font-size: 22rpx;
+}
+
+.list .list-item:first-child {
+  border-top: 1rpx solid #eee;
+}
+
+.list .list-item:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -1rpx;
+  right: 0;
+  width: 95%;
+  border-top: 1rpx solid #eee;
+}
+
+.list .list-item:last-child {
+  border-bottom: 1rpx solid #eee;
+}

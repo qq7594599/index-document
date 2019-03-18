@@ -1,0 +1,53 @@
+<!--components/document-list/document-list.wxml-->
+<view class='list'>
+  <view class='list-item'>
+    <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2557414929,1586734827&fm=58" />
+    <view class='info'>
+      <text class='title'>Sample document</text>
+      <text class='summary'>Recipient ID: 100100100100, title: Shanghai Jennifer technology Co., Ltd</text>
+      <text class='author'>Charence Wang @ March 12</text>
+      <text class='location'>Shengxia Rd</text>
+    </view>
+  </view>
+  <view class='list-item'>
+    <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2557414929,1586734827&fm=58" />
+    <view class='info'>
+      <text class='title'>Sample document</text>
+      <text class='summary'>Recipient ID: 100100100100, title: Shanghai Jennifer technology Co., Ltd</text>
+      <text class='author'>Charence Wang @ March 12</text>
+      <text class='location'>Shengxia Rd</text>
+    </view>
+  </view><view class='list-item'>
+    <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2557414929,1586734827&fm=58" />
+    <view class='info'>
+      <text class='title'>Sample document</text>
+      <text class='summary'>Recipient ID: 100100100100, title: Shanghai Jennifer technology Co., Ltd</text>
+      <text class='author'>Charence Wang @ March 12</text>
+      <text class='location'>Shengxia Rd</text>
+    </view>
+  </view><view class='list-item'>
+    <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2557414929,1586734827&fm=58" />
+    <view class='info'>
+      <text class='title'>Sample document</text>
+      <text class='summary'>Recipient ID: 100100100100, title: Shanghai Jennifer technology Co., Ltd</text>
+      <text class='author'>Charence Wang @ March 12</text>
+      <text class='location'>Shengxia Rd</text>
+    </view>
+  </view><view class='list-item'>
+    <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2557414929,1586734827&fm=58" />
+    <view class='info'>
+      <text class='title'>Sample document</text>
+      <text class='summary'>Recipient ID: 100100100100, title: Shanghai Jennifer technology Co., Ltd</text>
+      <text class='author'>Charence Wang @ March 12</text>
+      <text class='location'>Shengxia Rd</text>
+    </view>
+  </view><view class='list-item'>
+    <image src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2557414929,1586734827&fm=58" />
+    <view class='info'>
+      <text class='title'>Sample document</text>
+      <text class='summary'>Recipient ID: 100100100100, title: Shanghai Jennifer technology Co., Ltd</text>
+      <text class='author'>Charence Wang @ March 12</text>
+      <text class='location'>Shengxia Rd</text>
+    </view>
+  </view>
+</view>

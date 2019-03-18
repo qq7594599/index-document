@@ -19,3 +19,8 @@
 .usermotto {
   margin-top: 200px;
 }
+
+.container {
+  background-color: #dadada;
+  flex-grow: 1;
+}

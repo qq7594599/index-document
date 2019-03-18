@@ -2,5 +2,5 @@
 <search-bar></search-bar>
 
 <view class="container">
-  
+  <document-list></document-list>
 </view>

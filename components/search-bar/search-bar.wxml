@@ -1,4 +1,5 @@
 <!--components/search-bar.wxml-->
 <view class="bar-layout">
   <input confirm-type="search"></input>
+  <i class="search-icon"></i>
 </view>
